@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="left_fragment">Left Fragment</string>
+    <string name="central_fragment">Central Fragment</string>
+    <string name="right_fragment">Right Fragment</string>
+</resources>
